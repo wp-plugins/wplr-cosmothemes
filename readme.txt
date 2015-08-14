@@ -1,4 +1,4 @@
-=== Cosmo Themes for Lightroom (WP/LR Extension) ===
+=== Cosmo Themes for Lightroom ===
 Contributors: TigrouMeow
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H2S7S3G4XMJ6J
 Tags: lightroom, image, gallery, media, photo, export, management, admin, sync, synchronization
